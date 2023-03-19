@@ -1,0 +1,54 @@
+.col-1{
+    background-color: rgb(234, 232, 232);
+    width:400px;
+    margin-left: 30px;
+    
+}
+.card-body-main{
+    margin:20px;
+    min-height: 200px;
+    box-shadow: 10px 20px 30px 10px rgb(50 50 50 / 25%);
+    /* box-shadow: 10px 10px; */
+    min-width: 270px;
+    width:950px;
+    height:270px;
+    background-color: rgb(246, 243, 241);
+    margin-bottom: 40px;
+}
+.name-data{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.desc-data{
+    font-size: x-large;
+    text-align: center;
+padding-bottom: 30px;
+display: inline-block;
+width: 180px;
+white-space: nowrap;
+overflow: hidden !important;
+text-overflow: ellipsis; display: inline-block;
+width: 180px;
+white-space: nowrap;
+overflow: hidden !important;
+text-overflow: ellipsis;
+
+}
+.image-image{
+    width:400px;
+    height:270px;
+    display:inline-block;
+    overflow: hidden !important;
+    max-width: 100%;
+    
+
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text-data{
+    padding-left: 70px;
+    padding-top: 30px;
+}

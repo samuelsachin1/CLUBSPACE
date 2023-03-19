@@ -1,0 +1,40 @@
+.name-data-1{ 
+    text-align: center;
+    font-size: 60px;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-family: Garamond, serif;
+
+
+
+}
+.desc-data-1{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.sd-data-1{
+    font-size: x-large;
+}
+.ed-data-1{ 
+    font-size: x-large;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.start-date-text{
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.end-date-text{
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.image-data-1{
+    text-align: center;
+
+}
